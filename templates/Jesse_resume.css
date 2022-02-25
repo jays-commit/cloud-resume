@@ -1,12 +1,49 @@
 .job  {
   color: maroon;
-  text-align: center;
+  padding-left: 40px;
+  text-align: left;
 }
 
 .center {
+
        text-align: center;
 }
 
+.hi {
+
+    padding: 20px 40px 50px;
+
+}
+
 body {
+
   color: grey;
+  text margin-right:-50px;
+}
+
+.parent{
+
+    display:flex;
+}
+
+.heading {
+    padding-left: 10px;
+
+}
+.left{
+
+    color: white;
+    border-style: solid;
+    background-color: grey;
+    }
+
+.multi-border {
+
+    color: white;
+    padding-left: 10px;
+    box-sizing: border-box;
+    width: 400px;
+
+    background-color: grey;
+
 }
