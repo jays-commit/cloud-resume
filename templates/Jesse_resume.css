@@ -11,7 +11,7 @@
 
 .hi {
 
-    padding: 20px 40px 50px;
+    padding: 00px 40px 0px;
 
 }
 
@@ -24,10 +24,17 @@ body {
 .parent{
 
     display:flex;
+    margin-right: 20px;
 }
 
 .heading {
-    padding-left: 10px;
+    padding: 5px 0px 0px 0px;
+}
+
+.namehead{
+
+    padding-left: 40px;
+    margin-bottom: 5px;
 
 }
 .left{
@@ -37,13 +44,47 @@ body {
     background-color: grey;
     }
 
+.list_left{
+
+padding-left: 15px;
+
+}
+
 .multi-border {
-
     color: white;
-    padding-left: 10px;
+    margin-left: 40px;
+    padding: 0px 30px;
     box-sizing: border-box;
-    width: 400px;
-
     background-color: grey;
+
+}
+
+.education{
+
+    padding-top: 50px;
+
+}
+.container{
+
+    max-width: 960px;
+    margin 40px: auto;
+    padding:32px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0.1)
+
+}
+.page{
+  background: white;
+  width: 21cm;
+  height: 51.5cm;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+
+
+.new_page{
+    padding-top: 27px;
 
 }
